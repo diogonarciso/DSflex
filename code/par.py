@@ -3,7 +3,7 @@ min_calc_mode           = 'dist_only'   # 'dist_only' mode delivers only the dis
 max_min_calc            = False         # min-max flexibility calculated only if this bool is set to True
 min_max_calc            = False         # max-min flexibility calculated only if this bool is set to True
 display_2D_bool         = True          # If True, displays critical regions and heatmaps
-save_results            = False         # If True, saves results to Excel
+save_results            = True          # If True, saves results to Excel
 large_pos_number        = 1e10          # Lower and upper bounds for LPs are set from this parameter
 
 alg_par = {'min_calc_mode':min_calc_mode, 'max_min_calc':max_min_calc, 'min_max_calc':min_max_calc,
