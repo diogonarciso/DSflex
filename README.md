@@ -43,5 +43,5 @@ Options:
 1) The "par.py" file allows enabling/disabling several options and editing several parameters related to the display of 2D plots.
 2) By default, parameter "min_calc_mode" is set to "dist_only". If set to "projection", not only the minimum distance to each bound is delivered, but also explicit functions for the projection (optimizer) on the bounds are calculated.
 3) As discussed in the article, a preliminary assessment shows that the max-min and min-max distances are not particularly relevant for flexibility assessment, and their calculation is disbled by default. To check results for these metrics, it suffices to set parameters "max_min_calc" and/or "min_max_calc" to True.
-4) The display of critical regions and flexibility maps (2D only) is enabled/disabled by parameter "display_2D_bool", and saving results to Excel may be enabled via parameter "save_results".
+4) The display of critical regions and flexibility maps (2D only) is enabled/disabled by parameter "display_2D_bool", and saving results to Excel may be enabled/disabled via parameter "save_results".
 5) Several other options for displaying 2D plots are also available.
