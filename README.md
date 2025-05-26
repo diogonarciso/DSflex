@@ -1,7 +1,7 @@
 # DSflex
 Introduction:
 
-This project contains the Python files delivering the functionality for flexibility assessment, as presented in XX.
+This project contains the Python files delivering the functionality for flexibility assessment, as presented in https://doi.org/10.1016/j.compchemeng.2025.109189.
 This page provides a brief introduction to setting up the system, configuring examples, and obtaining and interpreting results.
 For any comments, please contact diogo.narciso@tecnico.ulisboa.pt.
 
